@@ -23,10 +23,6 @@ project "ImGui"
 		"imstb_textedit.h",
 		"imstb_truetype.h",
 		"imgui_demo.cpp",
-		"backends/imgui_impl_dx11.cpp",
-		"backends/imgui_impl_dx11.h",
-		"backends/imgui_impl_win32.cpp",
-		"backends/imgui_impl_win32.h"
 	}
 
 	defines
